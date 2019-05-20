@@ -1,0 +1,16 @@
+Your identification has been saved in /Users/lisayu/.ssh/id_rsa.
+Your public key has been saved in /Users/lisayu/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:5XUUaw4VaE4KTNkAz1BKGZN399WGQgfZDJtAIDwdvTM 9436725942qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|     .BX*Oo.+B*+.|
+|     .=B* +.B*+.+|
+|      .ooo.B=o+o |
+|         oE..=.  |
+|        S .o  .  |
+|                 |
+|                 |
+|                 |
+|                 |
++----[SHA256]-----+
